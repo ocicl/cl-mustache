@@ -1,0 +1,10 @@
+* cl-mustache
+
+Common Lisp Mustache Template Renderer
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kanru/cl-mustache.git   |
+| commit  | f5501e4  |
+| systems | cl-mustache |
+|---------+-------------------------------------------|
+
