@@ -2,9 +2,8 @@
 
 Common Lisp Mustache Template Renderer
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/kanru/cl-mustache.git   |
-| commit  | f5501e4  |
-| systems | cl-mustache |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/kanru/cl-mustache.git |
+| commit  | 4d1208c                                      |
+| systems | cl-mustache                                  |
+|---------+----------------------------------------------|
